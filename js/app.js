@@ -44,6 +44,27 @@ const projects = [
     githubLink: "https://github.com/xonof01/3-chi",
     vercelLink: "https://3-chi-livid.vercel.app/",
   },
+  {
+    title: "4-dars",
+    githubLink: "https://github.com/xonof01/tip-calculate",
+    vercelLink: "https://tip-calculator-steel-ten.vercel.app/",
+  },
+  {
+    title: "Manzarakar",
+    githubLink: "https://github.com/xonof01/DAVLATLAR",
+    vercelLink: "https://davlatlar-two.vercel.app/",
+  },
+  {
+    title: "6-costaway",
+    githubLink: "https://github.com/xonof01/6-costawy",
+    vercelLink: "https://6-costawy.vercel.app/",
+  }, {
+    title: "Manzarakar",
+    githubLink: "https://github.com/xonof01/DAVLATLAR",
+    vercelLink: "https://davlatlar-two.vercel.app/",
+  },
+ 
+  
 ];
 
 const template = document.querySelector("template");
