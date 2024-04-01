@@ -59,9 +59,9 @@ const projects = [
     githubLink: "https://github.com/xonof01/6-costawy",
     vercelLink: "https://6-costawy.vercel.app/",
   }, {
-    title: "Manzarakar",
-    githubLink: "https://github.com/xonof01/DAVLATLAR",
-    vercelLink: "https://davlatlar-two.vercel.app/",
+    title: "",
+    githubLink: "",
+    vercelLink: "",
   },
  
   
