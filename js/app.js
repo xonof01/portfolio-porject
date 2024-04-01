@@ -60,9 +60,9 @@ const projects = [
     vercelLink: "https://6-costawy.vercel.app/",
   },
     {
-    title: "",
-    githubLink: "",
-    vercelLink: "",
+    title: "create x",
+    githubLink: "https://github.com/xonof01/kreate-x",
+    vercelLink: "https://kreate-x.vercel.app/",
   },
  
   
