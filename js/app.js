@@ -64,6 +64,15 @@ const projects = [
     githubLink: "https://github.com/xonof01/kreate-x",
     vercelLink: "https://kreate-x.vercel.app/",
   },
+  {
+    title: "Animations",
+    githubLink: "https://github.com/xonof01/Animation",
+    vercelLink: "https://animation-taupe-one.vercel.app/",
+  },  {
+    title: "New cratex ",
+    githubLink: "https://github.com/xonof01/Servis",
+    vercelLink: "https://servis-liard.vercel.app/",
+  },
  
   
 ];
