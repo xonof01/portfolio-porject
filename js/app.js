@@ -68,11 +68,23 @@ const projects = [
     title: "Animations",
     githubLink: "https://github.com/xonof01/Animation",
     vercelLink: "https://animation-taupe-one.vercel.app/",
-  },  {
+  }, 
+  {
     title: "New cratex ",
     githubLink: "https://github.com/xonof01/Servis",
     vercelLink: "https://servis-liard.vercel.app/",
   },
+  {
+    title: " crowdfun-11",
+    githubLink: "https://github.com/xonof01/crowdfun-11",
+    vercelLink: "https://crowdfun-11.vercel.app/",
+  },
+  {
+    title: " crowdfun-11",
+    githubLink: "https://github.com/xonof01/crowdfun-11",
+    vercelLink: "https://crowdfun-11.vercel.app/",
+  },
+ 
  
   
 ];
