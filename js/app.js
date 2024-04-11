@@ -80,13 +80,15 @@ const projects = [
     vercelLink: "https://crowdfun-11.vercel.app/",
   },
   {
-    title: " crowdfun-11",
-    githubLink: "https://github.com/xonof01/crowdfun-11",
-    vercelLink: "https://crowdfun-11.vercel.app/",
+    title: "mutime",
+    githubLink: "https://github.com/xonof01/imthon1",
+    vercelLink: "https://mutime.vercel.app/about.html",
   },
- 
- 
-  
+  {
+    title: "desingo",
+    githubLink: "https://github.com/xonof01/desingo",
+    vercelLink: "https://desingo-six.vercel.app/",
+  }, 
 ];
 
 const template = document.querySelector("template");
