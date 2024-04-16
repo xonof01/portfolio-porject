@@ -81,8 +81,8 @@ const projects = [
   },
   {
     title: "mutime",
-    githubLink: "https://github.com/xonof01/imthon1",
-    vercelLink: "https://mutime.vercel.app/about.html",
+    githubLink: "https://github.com/xonof01/myteam",
+    vercelLink: "https://myteam-rose-ten.vercel.app/about.html",
   },
   {
     title: "desingo",
