@@ -88,7 +88,14 @@ const projects = [
     title: "desingo",
     githubLink: "https://github.com/xonof01/desingo",
     vercelLink: "https://desingo-six.vercel.app/",
+  },
+  
+  {
+    title: "4-oy,2-dars",
+    githubLink: "https://github.com/xonof01/4-oy-2-dars--vazifasi",
+    vercelLink: "https://vercel.com/firdavs-projects-46b2fecd/4-oy-2-dar",
   }, 
+  
 ];
 
 const template = document.querySelector("template");
