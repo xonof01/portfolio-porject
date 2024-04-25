@@ -97,8 +97,8 @@ const projects = [
   }, 
   {
     title: "4-oy,3-dars",
-    githubLink: "https://github.com/xonof01/4-oy-3-dars",
-    vercelLink: "https://4-oy-3-dars-eight.vercel.app/",
+    githubLink: "https://github.com/xonof01/4-oy-4-dars",
+    vercelLink: "https://4-oy-4-dars-henna.vercel.app/",
   }, 
   {
     title: "4-oy,4-dars",
