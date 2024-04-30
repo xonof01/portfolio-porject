@@ -105,6 +105,21 @@ const projects = [
     githubLink: "https://github.com/xonof01/4-oy-3-dars",
     vercelLink: "https://4-oy-3-dars-eight.vercel.app/",
   }, 
+  {
+    title: "4-oy,5-dars",
+    githubLink: "https://github.com/xonof01/4-oy-5-dars",
+    vercelLink: "https://4-oy-5-dars-one.vercel.app/",
+  }, 
+  {
+    title: "4-oy,-dars",
+    githubLink: "https://github.com/xonof01/4-oy-6--dars",
+    vercelLink: "https://4-oy-6-dars-kappa.vercel.app/",
+  }, 
+  {
+    title: "4-oy,7-dars",
+    githubLink: "https://github.com/xonof01/4-oy-3-dars",
+    vercelLink: "https://4-oy-3-dars-eight.vercel.app/",
+  }, 
  
   
 ];
