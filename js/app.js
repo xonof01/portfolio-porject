@@ -125,6 +125,12 @@ const projects = [
     githubLink: "https://github.com/xonof01/4-oy-8--dars",
     vercelLink: "https://4-oy-8-dars-lime.vercel.app/",
   }, 
+  {
+    title: "4-oy,9-dars",
+    githubLink: "https://github.com/xonof01/4-oy-9--dars",
+    vercelLink: "https://4-oy-9-dars-cyan.vercel.app/",
+  }, 
+ 
  
   
 ];
